@@ -35,7 +35,7 @@
     "@satazor/eslint-config": "^3.0.0",
     "chai": "^3.4.1",
     "coveralls": "^2.11.6",
-    "eslint": "^3.0.0",
+    "eslint": "^3.10.1",
     "greenkeeper-postpublish": "^1.0.1",
     "istanbul": "^0.4.1",
     "mocha": "^3.1.2",
